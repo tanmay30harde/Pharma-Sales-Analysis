@@ -1,5 +1,7 @@
 # Pharma-Sales-Analysis
 Project URL: https://colab.research.google.com/drive/1-qMIvpbOrWnpAt17N3AImFXJma1P1NVy?usp=sharing
+
+
 📌 Project Overview
 
 This project focuses on analyzing pharmaceutical sales data using Python, Pandas, NumPy and Matplotlib. The objective is to identify sales patterns across different Anatomical Therapeutic Chemical (ATC) drug categories, evaluate category-wise performance, identify high-performing categories and investigate seasonal trends in respiratory drug sales.
