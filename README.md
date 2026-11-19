@@ -1,5 +1,5 @@
 # Pharma-Sales-Analysis
-Project URL: https://colab.research.google.com/drive/1-qMIvpbOrWnpAt17N3AImFXJma1P1NVy?usp=sharing
+Project URL:[ https://colab.research.google.com/drive/1-qMIvpbOrWnpAt17N3AImFXJma1P1NVy?usp=sharing](https://roadmap.sh/projects/pharmaceutical-sales-data)
 
 
 📌 Project Overview
